@@ -7,7 +7,7 @@
 - [Table Tags](#table-tags)
 - [Media Tags](#media-tags)
 - [Text-Level Semantics](#text-level-semantics)
-- [Others Tags](#others-tags)
+- [Other Tags](#other-tags)
 <!-- - [Metadata Tags](#metadata-tags) -->
 <!-- - [Inline Frame Tags](#inline-frame-tags) -->
 <!-- - [Semantic HTML5 Tags](#semantic-html5-tags) -->
@@ -118,7 +118,7 @@
 - [ ] `<var>`
 - [ ] `<wbr>` -->
 
-## Others Tags
+## Other Tags
 - [ ] `<head>`
 - [ ] `<title>`
 - [ ] `<meta>`
