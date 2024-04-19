@@ -6,10 +6,10 @@
 - [Form Tags](#form-tags)
 - [Table Tags](#table-tags)
 - [Media Tags](#media-tags)
-- [Metadata Tags](#metadata-tags)
-- [Scripting Tags](#scripting-tags)
-- [Inline Frame Tags](#inline-frame-tags)
 - [Text-Level Semantics](#text-level-semantics)
+- [Others Tags](#others-tags)
+<!-- - [Metadata Tags](#metadata-tags) -->
+<!-- - [Inline Frame Tags](#inline-frame-tags) -->
 <!-- - [Semantic HTML5 Tags](#semantic-html5-tags) -->
 <!-- - [Interactive Tags](#interactive-tags) -->
 <!-- - [Deprecated Tags](#deprecated-tags) -->
@@ -53,12 +53,6 @@
 - [ ] `<audio>`
 - [ ] `<video>`
 
-## Metadata Tags
-- [ ] `<meta>`
-
-## Scripting Tags
-- [ ] `<script>`
-
 <!-- ## Semantic HTML5 Tags
 - [ ] `<article>`
 - [ ] `<aside>`
@@ -81,9 +75,6 @@
 - [ ] `<menu>`
 - [ ] `<menuitem>`
 - [ ] `<summary>` -->
-
-## Inline Frame Tags
-- [ ] `<iframe>`
 
 <!-- ## Deprecated Tags
 - [ ] `<frame>`
@@ -126,3 +117,12 @@
 - [ ] `<time>`
 - [ ] `<var>`
 - [ ] `<wbr>` -->
+
+## Others Tags
+- [ ] `<head>`
+- [ ] `<title>`
+- [ ] `<meta>`
+- [ ] `<style>`
+- [ ] `<script>`
+- [ ] `<div>`
+- [ ] `<iframe>`
