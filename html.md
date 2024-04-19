@@ -38,14 +38,14 @@
 
 ## Table Tags
 - [ ] `<table>`
-- [ ] `<caption>`
 - [ ] `<th>`
 - [ ] `<tr>`
 - [ ] `<td>`
 - [ ] `<thead>`
 - [ ] `<tbody>`
 - [ ] `<tfoot>`
-<!-- - [ ] `<col>`
+<!-- - [ ] `<caption>`
+- [ ] `<col>`
 - [ ] `<colgroup>` -->
 
 ## Media Tags
