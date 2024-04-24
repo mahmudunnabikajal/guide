@@ -16,3 +16,9 @@
     ![practice 7](./images/css-7.png)
 - Practice 8 <br>
     ![practice 8](./images/css-8.png)
+- Practice 9 <br>
+    ![practice 9](./images/css-9.png)
+- Practice 10 <br>
+    ![practice 10](./images/css-10.png)
+- Practice 11 <br>
+    ![practice 11](./images/css-11.png)
