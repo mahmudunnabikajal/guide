@@ -1,0 +1,71 @@
+
+.box{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background: chocolate;
+}
+.circle{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: rgb(255, 255, 255);
+    border-radius: 20%;
+}
+
+.circle1{
+    top: -50px;
+    left: -50px;
+}
+.circle2{
+    top: -50px;
+    right: -50px;
+}
+.circle3{
+   bottom: -50px;
+    left: -50px;
+}
+.circle4{
+    bottom: -50px;
+    right: -50px;
+}
+.circle5{
+    top: 234px;
+    left: 15px;
+}
+.circle6{
+    top: 165px;
+    right: 15px;
+}
+.circle7{
+    bottom: 265px;
+    left: 15px;
+}
+.circle8{
+    bottom: 139px;
+    right: 15px;
+}
+.bar{
+    position: absolute;
+    width: 30px;
+    height: 355px;
+    background: rgb(255, 255, 255);
+}
+.bar1{
+    top: 70px;
+    left: 50px;
+}
+.bar2{
+    top: 70px;
+    right: 50px;
+}
+.bar3{
+    bottom: 0px;
+    left: 0;
+    transform: rotate(90deg);
+}
+.bar4{
+    top: 0px;
+    right: 0;
+    transform: rotate(90deg);
+}
